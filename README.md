@@ -1,4 +1,4 @@
-# NxtGen_OS
+# NxtGen_OS (Made by Sibiram)
 
 ## Building
 
