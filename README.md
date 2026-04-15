@@ -1,5 +1,4 @@
-# nanobyte_os
-This repository contains the code from the ["Building an OS"](https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN) series on the ["Nanobyte"](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA) YouTube channel.
+# NxtGen_OS
 
 ## Building
 
@@ -27,7 +26,3 @@ After that, run `scons toolchain`, this should download and build the required t
 
 Finally, you should be able to run `scons`. Use `scons run` to test your OS using qemu.
 
-## Links
-
-* [Discord channel](https://discord.gg/RgHc5XrCEw)
-* [Patreon](https://www.patreon.com/nanobyte)
